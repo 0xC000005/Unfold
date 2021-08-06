@@ -13,7 +13,9 @@ Unfold is a mental heath app that helps people overcome the lack of communicatio
 
 
 ## Why different compare to the traditional therapy?
-An artificial intelligence-based recommendation system is used in our application. It actively measures the user's emotions while typing and thus ensures a positive response by changing the recommended content using supervised learning. Traditional/existing psychological therapies have no way to measure and validate of the effectiveness of treatment used.
+Compared to traditional 1-to-1 therapy, emotions in Unfold are shared in the community and learned by AI.
+
+We use AI to help you understanding your emotions! It actively measures the users' emotions as they type. The AI selected three carefully-picked letters from other users. These letters can be short story, emotional quotes, or a personal experience. From reading the letters, our user might smile, laugh, or even have a drop of tears. Emotion will resonance long after the reading, and this provides an emotional catharsis for our users.
 
 ---
 
