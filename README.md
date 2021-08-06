@@ -6,7 +6,7 @@
 </p>
 
 
-> "Only Unfolding Can Smoothen the Ruffles of Heart"
+> "Unfold envelopes to smooth the ruffles of heart."
 
 # About
 
